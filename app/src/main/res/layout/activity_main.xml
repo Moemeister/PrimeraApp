@@ -30,4 +30,12 @@
         tools:layout_editor_absoluteX="197dp"
         tools:layout_editor_absoluteY="71dp" />
 
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="89dp" />
+
 </android.support.constraint.ConstraintLayout>
